@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## AmoCRM
+
+narek.sargsyan.2000.g@gmail.com
+test123
+
 ## Installation
 
 ```bash
